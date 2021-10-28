@@ -1,6 +1,6 @@
 module.exports = mongoose => {
     const Pedido = mongoose.model(
-      "categories",
+      "pedidos",
       mongoose.Schema(
         {
           numero: String,

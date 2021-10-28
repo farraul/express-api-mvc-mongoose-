@@ -8,6 +8,8 @@ module.exports = mongoose => {
           pais: String,
           telf: Number,
           pack: String,
+          email: String,
+          password: String
          
         },
         { timestamps: true }

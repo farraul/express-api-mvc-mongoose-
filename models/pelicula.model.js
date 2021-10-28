@@ -1,6 +1,6 @@
 module.exports = mongoose => {
     const Pelicula = mongoose.model(
-      "movies",
+      "peliculas",
       mongoose.Schema(
         {
           title: String,

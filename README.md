@@ -54,5 +54,7 @@ Postman:
 
 ![imggg](https://user-images.githubusercontent.com/28491001/139271234-0bdc5009-28fa-44de-9d17-34e819456a34.png)
 ![image](https://user-images.githubusercontent.com/28491001/139293981-37f48d33-99cb-40f1-8a65-92feeabb9798.png)
+![image](https://user-images.githubusercontent.com/28491001/139294416-04d83071-37f7-4047-a5e0-930b975395f4.png)
+
 
 
